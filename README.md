@@ -1,5 +1,6 @@
-# OOP_UCU
-## Learning fundamentals of OOP at CS@UCU
+# OOP UCU 
+### Learning fundamentals of OOP at CS@UCU
 
-## Done:
+
+#### Done:
 * Java parser for rozetka.ua to analyze ratings of different cameras
