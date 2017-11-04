@@ -10,7 +10,7 @@ public class Hobbit extends Character {
         System.out.println(this.name + ": Qua qua qua");
     }
 
-    public Hobbit() {
+    Hobbit() {
         super(3, 0, "Hobbit");
     }
 
