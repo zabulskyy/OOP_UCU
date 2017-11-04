@@ -1,4 +1,4 @@
-package AdditionalAssigment;
+package AdditionalAssigment1;
 
 public class King extends Swordsman {
 

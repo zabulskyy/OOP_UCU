@@ -1,4 +1,4 @@
-package AdditionalAssigment;
+package AdditionalAssigment1;
 
 public class GameManager {
     static void fight(Character c1, Character c2) {
@@ -15,7 +15,6 @@ public class GameManager {
 
             c1.kick(c2);
             c2.kick(c1);
-
             System.out.println("--");
             System.out.println(c1);
             System.out.println(c2);

@@ -1,4 +1,4 @@
-package AdditionalAssigment;
+package AdditionalAssigment1;
 
 abstract class Character {
     protected int power;
